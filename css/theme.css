@@ -1,0 +1,9 @@
+:root {
+  --primary: #388e3c;       /* Green primary color */
+  --accent: #81c784;        /* Light green accent */
+  --purple: #7048e8;        /* Optional highlight */
+  --bg-light: #f1f8e9;      /* Background */
+  --dark: #212529;          /* Footer or text dark color */
+  --text-color: #2e7d32;    /* Text inside cards or content */
+  --white: #ffffff;
+}

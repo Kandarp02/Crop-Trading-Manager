@@ -1,0 +1,16 @@
+{
+    "name": "kanda/maize-trading",
+    "description": "A PHP project for managing maize trading.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kanda\\MaizeTrading\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "dompdf/dompdf": "dev-master",
+        "twilio/sdk": "dev-main"
+    }
+}
