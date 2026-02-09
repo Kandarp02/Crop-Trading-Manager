@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="docs/1.png" alt="Crop Trading Management System" width="100%" />
-
   <h1>🌾 Crop Trading Management System</h1>
   <h3>Multi‑Crop • Farmer‑to‑Trader • Client‑Based • Research & Startup Ready</h3>
 
