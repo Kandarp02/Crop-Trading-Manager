@@ -86,27 +86,6 @@ This solution addresses limitations of traditional agricultural trading systems 
 
 ---
 
-## 🧱 ER Diagram (Database Design)
-
-<img src="docs/12.png" alt="ER Diagram" width="85%" />
-
-**Entities:** Farmer, Trader, Buyer, Crop, Stock, Purchase, Sales, Invoice
-**Relationships:**
-
-* Farmer sells Crop to Trader
-* Trader manages Stock
-* Buyer purchases Crop from Trader
-
----
-
-## 🔄 Use Case Diagram
-
-<img src="docs/13.png" alt="Use Case Diagram" width="85%" />
-
-**Actors:** Farmer, Trader, Admin, Buyer
-**Use Cases:** Sell Crop, Purchase Crop, Manage Inventory, Generate Bill, View Reports
-
----
 
 ## 🛠️ Technology Stack
 
